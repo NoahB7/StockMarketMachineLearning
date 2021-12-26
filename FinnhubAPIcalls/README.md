@@ -1,0 +1,1 @@
+Probably will pick just a subset of all the tickers or symbols to get data for select companies and train whatever model I pick for the predictions. Aim right now is set on Least-Squares Support Vector Machine.
